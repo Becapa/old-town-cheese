@@ -30,7 +30,7 @@ title: "Home"
 </section>
 
 <!-- Storefront Teaser -->
-<section class="bg-wheat p-6 px-50 text-center">
+<section class="bg-wheat p-6 md:px-50 text-center">
   <h3 class="text-xl text-stone-700 font-semibold mb-2">🏠 Storefront Coming Soon</h3>
   <p class="text-stone-700">We’re working on something special — stay tuned for more news on our future home base.</p>
 </section>
