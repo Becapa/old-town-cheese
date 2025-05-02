@@ -13,8 +13,9 @@ title: "Home"
 </section>
 
 <!-- Mobile Cart Feature -->
-<section class="px-20 py-10 shadow flex">
-  <div class="flex-1/2">
+<section class="px-10 md:flex">
+  <img src="placeholder.jpg" alt="The Old Town Cheese Cart set up under a canopy." class="p-10 rounded shadow flex-1/2 order-last">
+  <div class="p-10 flex-1/2">
     <h2 class="text-2xl font-semibold text-stone-800 mb-2">Fresh Charcuterie, Served from Our Cart</h3>
     <p class="mb-4 text-stone-700">
       Grab a delicious, ready-to-go charcuterie cup made with seasonal and local ingredients. Perfect for snacking while you shop.
@@ -25,7 +26,7 @@ title: "Home"
       <li>Special Events – Follow us on Instagram</li>
     </ul>
   </div>
-  <img src="placeholder.jpg" alt="The Old Town Cheese Cart set up under a canopy." class="rounded shadow float-right flex-1/2">
+  
 </section>
 
 <!-- Storefront Teaser -->
